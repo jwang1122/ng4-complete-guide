@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
+## Start the application
+```bash
+npm install
+ng serve
+```
+
 ## Instal Bootstrap
 ```bash
 npm install --save bootstrap@3
@@ -13,6 +19,15 @@ add the following line in angular.json file
     "src/styles.css"
   ],
 ```
+
+## Generate Component
+```bash
+ng generate component header 
+ng g c recipes --spec false
+ng g c recipes/recipe-list --spec false
+ng g c recipes/recipe-detail --spec false
+```
+
 
 ## Development server
 
