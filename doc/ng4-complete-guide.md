@@ -1,5 +1,8 @@
 # NG4 Complete Guide
 
+## Shopping Detail
+![Shopping Detail Page](shoppingDetail.png)
+
 ## Push existing project to github.com
 * Create a github repository on github;
 * add the remote to local git repository
