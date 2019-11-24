@@ -1,5 +1,16 @@
 # NG4 Complete Guide
 
+## Push existing project to github.com
+* Create a github repository on github;
+* add the remote to local git repository
+```bash
+git remote add origin https://github.com/jwang1122/ng4-complete-guide.git
+```
+* Set upstream to master branch
+```bash
+git push --set-upstream origin master
+```
+
 ## Find recipe images
 
 * Google searh: Recipe images
