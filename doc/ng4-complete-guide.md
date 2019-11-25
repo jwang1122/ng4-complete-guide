@@ -28,6 +28,8 @@ git push --set-upstream origin master
 ## Google Chrome Debugger
 * [Start application on localhost:4200](http://localhost:4200/)
 * Right-click on page, select inspect
+* Select Sources in menu -> Page on submenu -> webpack:// in tree view
+![Set breakpoint in Chrome Debugger](Breakpoint.png)
 * Select Sources in menu, pickup src/main.js, [Ctrl+f) search for your component class name (AppComponent)
 * Click on the class, the AppComponent.ts file will be opened
 * Click on the left of the line number you want to break;
