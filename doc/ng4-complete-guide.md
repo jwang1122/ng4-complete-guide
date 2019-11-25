@@ -34,3 +34,8 @@ git push --set-upstream origin master
 * Click on the class, the AppComponent.ts file will be opened
 * Click on the left of the line number you want to break;
 ![Break point on Google Chrome Debugger](Debugger.png)
+
+## Use Angular Augury
+[Install Angular Augury as Chrome Extension](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd/related)
+![Augury on Chrome](Augury.png)
+![Injector Graph](InjectorGraph.png)
