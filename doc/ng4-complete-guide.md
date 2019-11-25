@@ -24,3 +24,11 @@ git push --set-upstream origin master
 * Google Chrome Error
 ![Chrome Settings->Extensions->Turn off Google Docs Offline](Warning.png)
 ![TechSearch Extension error](Error.png)
+
+## Google Chrome Debugger
+* [Start application on localhost:4200](http://localhost:4200/)
+* Right-click on page, select inspect
+* Select Sources in menu, pickup src/main.js, [Ctrl+f) search for your component class name (AppComponent)
+* Click on the class, the AppComponent.ts file will be opened
+* Click on the left of the line number you want to break;
+![Break point on Google Chrome Debugger](Debugger.png)
